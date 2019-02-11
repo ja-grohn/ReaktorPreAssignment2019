@@ -65,3 +65,7 @@ gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
 # Bootstrap for nicer views.
 gem 'bootstrap', '~> 4.2.1'
+
+
+# HTTParty for nicer requests.
+gem 'httparty'
