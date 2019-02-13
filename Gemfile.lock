@@ -91,6 +91,7 @@ GEM
     i18n (1.5.3)
       concurrent-ruby (~> 1.0)
     io-like (0.3.0)
+    iso_country_codes (0.7.8)
     jbuilder (2.8.0)
       activesupport (>= 4.2.0)
       multi_json (>= 1.2)
@@ -225,6 +226,7 @@ DEPENDENCIES
   chromedriver-helper
   coffee-rails (~> 4.2)
   httparty
+  iso_country_codes (~> 0.7.8)
   jbuilder (~> 2.5)
   listen
   puma (~> 3.11)
