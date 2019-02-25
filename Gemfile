@@ -70,7 +70,7 @@ gem 'bootstrap', '~> 4.2.1'
 # HTTParty for nicer requests.
 gem 'httparty'
 
-#IsoCountryCodes for dealing with ISO3 country codes.
-gem 'iso_country_codes', '~> 0.7.8'
+# Charctkick for charts
+gem 'chartkick'
 
 gem 'rb-readline'

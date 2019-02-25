@@ -1,2 +1,0 @@
-class RegionData < OpenStruct
-end
