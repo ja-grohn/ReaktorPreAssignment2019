@@ -2,16 +2,25 @@
     There is no data for this country.
 <% else %>
     <h1><%= @data.first.country.name %></h1>
+
+    <h2>Population</h2>
     <% populations = Hash.new %>
     <% @data.each{ |d| populations[d.year]=d.population } %>
     <%= line_chart populations %>
 
+    <h2>Total CO2 emmissions</h2>
     <% co2s = Hash.new %>
     <% @data.each{ |d| co2s[d.year]=d.co2 } %>
     <%= line_chart co2s %>
 
+    <h2>CO2 per capita</h2>
     <% co2s_per_capita = Hash.new %>
-    <% @data.each{ |d| co2s_per_capita[d.year]=d.co2/d.population unless d.population==0 or d.nil? or d.population.nil? } %>
+    <% @data.each{ |d| co2s_per_capita[d.year] =
+        if (d.population==0 or d.co2.nil? or d.population.nil?) then
+            nil 
+        else
+            d.co2/d.population
+        end } %>
     <%= line_chart co2s_per_capita %>
 
     <table>

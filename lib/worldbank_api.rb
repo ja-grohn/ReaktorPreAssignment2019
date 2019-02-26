@@ -32,8 +32,12 @@ class WorldbankApi
     co2_url = country_data_url(country,range,"co2")
     population_url = country_data_url(country,range,"population")
     
-    co2 = HTTParty.get(co2_url).parsed_response.dig("data","data")&.map{ |h| h.dig("value").to_f }
-    population = HTTParty.get(population_url).dig("data","data")&.map{ |h| h.dig("value").to_i }
+    co2 = HTTParty.get(co2_url).parsed_response.dig("data","data")
+      &.map{ |hash| hash.dig("value") }
+      .map{ |value| value.to_f if value }
+    population = HTTParty.get(population_url).dig("data","data")
+      &.map{ |h| h.dig("value") }
+      .map{ |value| value.to_i if value }
 
     range.to_a
       .map{ |year|
