@@ -1,6 +1,6 @@
 class CountriesController < ApplicationController
   def index
-    @countries = WorldbankApi.countries()
+    @countries = WorldbankApi.countries().sort_by(&:name)
   end
 
   def show

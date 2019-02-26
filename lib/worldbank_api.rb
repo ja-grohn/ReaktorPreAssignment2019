@@ -1,7 +1,7 @@
 class WorldbankApi
   # Lists countries.
   def self.countries
-    Rails.cache.fetch("COUNTRIES"){ get_countries() }
+    Rails.cache.fetch("COUNTRIES", expires_in: 3.months.to_i){ get_countries() }
   end
 
   # Get specific country from ISO 2 code
@@ -34,10 +34,10 @@ class WorldbankApi
     
     co2 = HTTParty.get(co2_url).parsed_response.dig("data","data")
       &.map{ |hash| hash.dig("value") }
-      .map{ |value| value.to_f if value }
+      &.map{ |value| value.to_f if value }
     population = HTTParty.get(population_url).dig("data","data")
       &.map{ |h| h.dig("value") }
-      .map{ |value| value.to_i if value }
+      &.map{ |value| value.to_i if value }
 
     range.to_a
       .map{ |year|
