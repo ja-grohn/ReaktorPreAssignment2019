@@ -1,0 +1,9 @@
+<h1> Countries of the world </h1>
+
+<ul class="list-group">
+    <% @countries.each do |country| %>
+        <li class="list-group-item">
+            <%= link_to "#{country.name}", country_path(country.code) %>
+        </li>
+    <% end %>
+</ul>

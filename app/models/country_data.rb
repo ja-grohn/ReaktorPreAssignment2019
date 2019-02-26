@@ -1,0 +1,2 @@
+class CountryData < OpenStruct
+end

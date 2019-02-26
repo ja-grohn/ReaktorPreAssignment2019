@@ -1,0 +1,22 @@
+<h1><%= @data.first.country.name %></h1>
+<% populations = Hash.new %>
+<% @data.each{ |d| populations[d.year]=d.population } %>
+<%= line_chart populations %>
+
+<% co2s = Hash.new %>
+<% @data.each{ |d| co2s[d.year]=d.co2 } %>
+<%= line_chart co2s %>
+
+<% co2s_per_capita = Hash.new %>
+<% @data.each{ |d| co2s_per_capita[d.year]=d.co2/d.population unless d.population==0 or d.nil? } %>
+<%= line_chart co2s_per_capita %>
+
+<table>
+    <th>Population</th><th>CO2</th>
+    <% @data.each do |d| %>
+        <tr>
+            <td><%= d.population %></td>
+            <td><%= d.co2 %></td>
+        </tr>
+    <% end %>
+</table>
