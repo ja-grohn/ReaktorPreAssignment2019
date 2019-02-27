@@ -5,4 +5,5 @@ Rails.application.routes.draw do
   root 'application#index'
   resources :countries, only: [:index, :show]
   resources :api, only: [:index, :show]
+  post 'countries', to: 'countries#search'
 end

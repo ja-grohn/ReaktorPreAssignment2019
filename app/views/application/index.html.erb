@@ -3,3 +3,10 @@
 <button class="btn btn-primary">
     <%= link_to "View all countries", countries_path %>
 </button>
+
+<h2>Regions of interest</h2>
+<% @interesting_countries.each do |country| %>
+    <button class="btn btn-light">
+        <%= link_to country.name, country_path(country.code) %>
+    </button>
+<% end %>
