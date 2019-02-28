@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wb:data page="1" pages="1" per_page="50" total="50" sourceid="2" lastupdated="2019-01-30" xmlns:wb="http://www.worldbank.org">
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2018</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2017</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2016</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2015</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2014</wb:date>
+    <wb:value>47300.633</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2013</wb:date>
+    <wb:value>47219.959</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2012</wb:date>
+    <wb:value>49134.133</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2011</wb:date>
+    <wb:value>56816.498</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2010</wb:date>
+    <wb:value>62082.31</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2009</wb:date>
+    <wb:value>53149.498</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2008</wb:date>
+    <wb:value>56519.471</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2007</wb:date>
+    <wb:value>63985.483</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2006</wb:date>
+    <wb:value>66200.351</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2005</wb:date>
+    <wb:value>54645.634</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2004</wb:date>
+    <wb:value>67091.432</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2003</wb:date>
+    <wb:value>69130.284</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2002</wb:date>
+    <wb:value>61682.607</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2001</wb:date>
+    <wb:value>57051.186</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2000</wb:date>
+    <wb:value>52427.099</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1999</wb:date>
+    <wb:value>55423.038</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1998</wb:date>
+    <wb:value>56988.847</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1997</wb:date>
+    <wb:value>59933.448</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1996</wb:date>
+    <wb:value>61282.904</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1995</wb:date>
+    <wb:value>52713.125</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1994</wb:date>
+    <wb:value>57223.535</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1993</wb:date>
+    <wb:value>50402.915</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1992</wb:date>
+    <wb:value>47472.982</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1991</wb:date>
+    <wb:value>53699.548</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1990</wb:date>
+    <wb:value>51745.037</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1989</wb:date>
+    <wb:value>52584.78</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1988</wb:date>
+    <wb:value>52185.077</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1987</wb:date>
+    <wb:value>57656.241</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1986</wb:date>
+    <wb:value>53329.181</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1985</wb:date>
+    <wb:value>49665.848</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1984</wb:date>
+    <wb:value>42254.841</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1983</wb:date>
+    <wb:value>41576.446</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1982</wb:date>
+    <wb:value>43083.583</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1981</wb:date>
+    <wb:value>51510.349</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1980</wb:date>
+    <wb:value>58246.628</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1979</wb:date>
+    <wb:value>54333.939</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1978</wb:date>
+    <wb:value>51913.719</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1977</wb:date>
+    <wb:value>50219.565</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1976</wb:date>
+    <wb:value>51279.328</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1975</wb:date>
+    <wb:value>46101.524</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1974</wb:date>
+    <wb:value>46680.91</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1973</wb:date>
+    <wb:value>49387.156</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1972</wb:date>
+    <wb:value>44161.681</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1971</wb:date>
+    <wb:value>40582.689</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1970</wb:date>
+    <wb:value>40395.672</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="EN.ATM.CO2E.KT">CO2 emissions (kt)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>1969</wb:date>
+    <wb:value>37935.115</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+</wb:data>

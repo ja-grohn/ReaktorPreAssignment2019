@@ -4,15 +4,22 @@ class WorldbankApi
     Rails.cache.fetch("COUNTRIES", expires_in: 3.months.to_i){ get_countries() }
   end
 
+  # Gets information about the country from a specific year.
+  def self.country_data(country, range=(current_year..current_year))
+    Rails.cache.fetch("#{country.code}#{range}", expires_in: 1.week.to_i) { get_country_data(country, range) }
+  end
+
+  # Current year
+  def self.current_year
+    Date.today.year
+  end
+
   # Get specific country from ISO 2 code
   def self.get_country(country_code)
     countries.detect{ |c| c.code == country_code }
   end
 
-  # Gets information about the country from a specific year.
-  def self.country_data(country, range=(current_year..current_year))
-    Rails.cache.fetch("#{country.code}#{range}", expires_in: 1.week.to_i) { get_country_data(country, range) }
-  end
+  private
 
   # Fetches an array of all the countries in the world.
   def self.get_countries
@@ -52,10 +59,6 @@ class WorldbankApi
 
   def self.get_country_history(country, years)
 
-  end
-
-  def self.current_year
-    Date.today.year
   end
 
   def self.country_list_url(page=1)
