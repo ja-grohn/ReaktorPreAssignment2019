@@ -1,10 +1,11 @@
 <h1> Countries of the world </h1>
 
 <%= form_tag countries_path do %>
-  <%= label_tag(:country, "Search countries:") %>
-  <%= text_field_tag(:country, params[:country]) %>
-  <%= submit_tag("Search") %>
+  <%= text_field_tag(:country, params[:country], placeholder: 'Country name', class: 'form-inline md-form form-sm mt-0') %>
+  <%= submit_tag("Search", class: 'btn btn-primary') %>
 <% end %>
+
+<p>
 
 <ul class="list-group">
     <% @countries.each do |country| %>
