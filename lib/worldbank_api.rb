@@ -19,7 +19,7 @@ class WorldbankApi
     countries.detect{ |c| c.code == country_code }
   end
 
-  private
+  
 
   # Fetches an array of all the countries in the world.
   def self.get_countries
@@ -40,25 +40,21 @@ class WorldbankApi
     population_url = country_data_url(country,range,"population")
     
     co2 = HTTParty.get(co2_url).parsed_response.dig("data","data")
-      &.map{ |hash| hash.dig("value") }
-      &.map{ |value| value.to_f if value }
+      &.map{ |hash| [hash["date"].to_i, hash["value"]&.to_f] }
+      .to_h
     population = HTTParty.get(population_url).dig("data","data")
-      &.map{ |h| h.dig("value") }
-      &.map{ |value| value.to_i if value }
+      &.map{ |hash| [hash["date"].to_i, hash["value"]&.to_i] }
+      .to_h
 
     range.to_a
       .map{ |year|
         CountryData.new(
           country: country,
           year: year,
-          population: population&.fetch(year-range.last),
-          co2: co2&.fetch(year-range.last)
+          population: population[year],
+          co2: co2[year]
         )
       }
-  end
-
-  def self.get_country_history(country, years)
-
   end
 
   def self.country_list_url(page=1)
